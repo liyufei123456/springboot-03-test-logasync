@@ -1,0 +1,20 @@
+2022-08-17 11:28:31.777  INFO 1412 --- [main] Springboot03TestLogasyncApplicationTests : Starting Springboot03TestLogasyncApplicationTests on DESKTOP-PTDG8S6 with PID 1412 (started by 86188 in D:\sqring\springboot-03-test-logasync)
+2022-08-17 11:28:31.778 DEBUG 1412 --- [main] Springboot03TestLogasyncApplicationTests : Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2022-08-17 11:28:31.779  INFO 1412 --- [main] Springboot03TestLogasyncApplicationTests : No active profile set, falling back to default profiles: default
+2022-08-17 11:28:31.797  INFO 1412 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@43bc63a3: startup date [Wed Aug 17 11:28:31 CST 2022]; root of context hierarchy
+2022-08-17 11:28:32.111  INFO 1412 --- [main] Springboot03TestLogasyncApplicationTests : Started Springboot03TestLogasyncApplicationTests in 0.536 seconds (JVM running for 1.007)
+2022-08-17 11:28:32.132 DEBUG 1412 --- [main] Springboot03TestLogasyncApplicationTests : -----debug级别日志，默认线上不开(内容更详细，日志量较大)，用于线上问题定位,掌握-----
+2022-08-17 11:28:32.133  INFO 1412 --- [main] Springboot03TestLogasyncApplicationTests : -----info级别日志，SpringBoot的默认日志级别,掌握
+2022-08-17 11:28:32.133  WARN 1412 --- [main] Springboot03TestLogasyncApplicationTests : -----warn级别日志，业务警告日志级别，警告不一定是错误（主要记录异常流程）,掌握
+2022-08-17 11:28:32.133 ERROR 1412 --- [main] Springboot03TestLogasyncApplicationTests : -----error级别日志，最高级别，异常或者错误日志级别，实际开发过程中出现异常或者错误，都必须使用此级别,掌握
+2022-08-17 11:28:32.136  INFO 1412 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@43bc63a3: startup date [Wed Aug 17 11:28:31 CST 2022]; root of context hierarchy
+2022-08-17 11:45:47.034  INFO 12420 --- [main] Springboot03TestLogasyncApplicationTests : Starting Springboot03TestLogasyncApplicationTests on DESKTOP-PTDG8S6 with PID 12420 (started by 86188 in D:\sqring\springboot-03-test-logasync)
+2022-08-17 11:45:47.035 DEBUG 12420 --- [main] Springboot03TestLogasyncApplicationTests : Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2022-08-17 11:45:47.036  INFO 12420 --- [main] Springboot03TestLogasyncApplicationTests : No active profile set, falling back to default profiles: default
+2022-08-17 11:45:47.055  INFO 12420 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@43bc63a3: startup date [Wed Aug 17 11:45:47 CST 2022]; root of context hierarchy
+2022-08-17 11:45:47.360  INFO 12420 --- [main] Springboot03TestLogasyncApplicationTests : Started Springboot03TestLogasyncApplicationTests in 0.529 seconds (JVM running for 0.995)
+2022-08-17 11:45:47.381 DEBUG 12420 --- [main] Springboot03TestLogasyncApplicationTests : -----debug级别日志，默认线上不开(内容更详细，日志量较大)，用于线上问题定位,掌握-----
+2022-08-17 11:45:47.382  INFO 12420 --- [main] Springboot03TestLogasyncApplicationTests : -----info级别日志，SpringBoot的默认日志级别,掌握
+2022-08-17 11:45:47.382  WARN 12420 --- [main] Springboot03TestLogasyncApplicationTests : -----warn级别日志，业务警告日志级别，警告不一定是错误（主要记录异常流程）,掌握
+2022-08-17 11:45:47.382 ERROR 12420 --- [main] Springboot03TestLogasyncApplicationTests : -----error级别日志，最高级别，异常或者错误日志级别，实际开发过程中出现异常或者错误，都必须使用此级别,掌握
+2022-08-17 11:45:47.385  INFO 12420 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@43bc63a3: startup date [Wed Aug 17 11:45:47 CST 2022]; root of context hierarchy

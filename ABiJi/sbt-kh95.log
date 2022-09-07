@@ -1,0 +1,10 @@
+2022-08-17 11:46:09.830  INFO 9172 --- [main] Springboot03TestLogasyncApplicationTests : Starting Springboot03TestLogasyncApplicationTests on DESKTOP-PTDG8S6 with PID 9172 (started by 86188 in D:\sqring\springboot-03-test-logasync)
+2022-08-17 11:46:09.831 DEBUG 9172 --- [main] Springboot03TestLogasyncApplicationTests : Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2022-08-17 11:46:09.831  INFO 9172 --- [main] Springboot03TestLogasyncApplicationTests : No active profile set, falling back to default profiles: default
+2022-08-17 11:46:09.850  INFO 9172 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@43bc63a3: startup date [Wed Aug 17 11:46:09 CST 2022]; root of context hierarchy
+2022-08-17 11:46:10.162  INFO 9172 --- [main] Springboot03TestLogasyncApplicationTests : Started Springboot03TestLogasyncApplicationTests in 0.541 seconds (JVM running for 0.998)
+2022-08-17 11:46:10.182 DEBUG 9172 --- [main] Springboot03TestLogasyncApplicationTests : -----debug级别日志，默认线上不开(内容更详细，日志量较大)，用于线上问题定位,掌握-----
+2022-08-17 11:46:10.183  INFO 9172 --- [main] Springboot03TestLogasyncApplicationTests : -----info级别日志，SpringBoot的默认日志级别,掌握
+2022-08-17 11:46:10.183  WARN 9172 --- [main] Springboot03TestLogasyncApplicationTests : -----warn级别日志，业务警告日志级别，警告不一定是错误（主要记录异常流程）,掌握
+2022-08-17 11:46:10.183 ERROR 9172 --- [main] Springboot03TestLogasyncApplicationTests : -----error级别日志，最高级别，异常或者错误日志级别，实际开发过程中出现异常或者错误，都必须使用此级别,掌握
+2022-08-17 11:46:10.187  INFO 9172 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@43bc63a3: startup date [Wed Aug 17 11:46:09 CST 2022]; root of context hierarchy
